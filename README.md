@@ -5,7 +5,9 @@
   </a>
 </p>
 
-> We go over the concepts of time & space complexity, along with how these concepts are quantified with Big O notation. \n We provide in depth examples showing how different program structures effect the runtime of a some basic JavaScript programs.
+> We go over the concepts of time & space complexity, along with how these concepts are quantified with Big O notation.
+
+> We provide in depth examples showing how different program structures effect the runtime of a some basic JavaScript programs.
 
 ### 🏠 [Homepage](https://haysstanford.com)
 
