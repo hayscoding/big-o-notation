@@ -3,6 +3,7 @@ function printIndicesTwice(arr) {
         console.log(arr[i])
     }
 
+    // Iterates thru all array elements 2 times (hence 2n)
     for (var i = 0; i < arr.length; i++) {
         console.log(arr[i])
     }
