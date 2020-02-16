@@ -1,3 +1,4 @@
+// Only computes 1 operation (hence O(1))
 function test(str) {
     console.log(str)
 }
