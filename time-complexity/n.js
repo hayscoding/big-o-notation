@@ -1,4 +1,5 @@
 function printIndices(arr) {
+    // Iterates thru all items in array once
     for (var i = 0; i < arr.length; i++) {
         console.log(arr[i])
     }
