@@ -7,6 +7,7 @@
 
 // Finds num at nth position in the fibonacci sequence 
 // (1, 1, 2, 3, 5, 8, 13, 21, 34, ...)
+
 function fibonacci(n) {
     if (n < 2) {
         return n;
@@ -16,3 +17,4 @@ function fibonacci(n) {
 }
 
 console.log(fibonacci(8))
+console.log(operations)
